@@ -4,12 +4,12 @@
 
 console.log(3 + 3) // code readability should be high
 
-console.log("Hitesh")
+console.log("Rajat Panchariya")
 
 
-let name = "hitesh"
-let age = 18
-let isLoggedIn = false
+let name = "Rajat"
+let age = 21
+let isLoggedIn = true
 let state;
 
 // number => 2 to power 53
@@ -25,3 +25,5 @@ let state;
 
 console.log(typeof undefined); // undefined
 console.log(typeof null); // object
+console.table([age, isLoggedIn, state, name]);
+// ECMA website: https://tc39.es/ecma262/2023/multipage/ecmascript-data-types-and-values.html#sec-ecmascript-data-types-and-values
