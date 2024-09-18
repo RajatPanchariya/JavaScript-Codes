@@ -13,7 +13,7 @@ let valurInnumber= Number(score)
 let isLoggedIn = undefined
 
 let booleanIsLoggedIn = Boolean(isLoggedIn)
-console.log(booleanIsLoggedIn);
+// console.log(booleanIsLoggedIn);
 
 // 1 => true; 0 => false
 // "" => false ; null or undefined => false
@@ -27,4 +27,19 @@ let stringNumber = String(someNumber)
 
 // *********************** Operations ***********************
 
+let value = 3
+let negValue = -value
+// console.log(negValue);
 
+// console.log(2+2);
+// console.log(2-2);            ye sab basic mathematics ha
+// console.log(2*2);
+// console.log(2**3);
+// console.log(2/3);
+// console.log(2%3);
+
+let str1 = "Hello"
+let str2 = "Rajat"
+let str3 = " "
+let str4 = str1 + str3 + str2
+// console.log(str4);
