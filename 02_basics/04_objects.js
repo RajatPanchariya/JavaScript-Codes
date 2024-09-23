@@ -71,7 +71,7 @@ const {courseInstructor: instructor} = course
 // console.log(instructor);
 
 
-// this is all a small about jyson
+// this is all a small about jyson we will get now about this in future
 
 // {
 //     "name": "hitesh",
